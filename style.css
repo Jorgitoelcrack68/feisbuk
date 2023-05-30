@@ -1,0 +1,30 @@
+img{
+    border-radius: 110px;
+}
+body{
+    background-color: rgb(31, 31, 117);
+}
+div{
+    background-color: rgb(203, 203, 203);
+    width: fit-content;
+    padding: 20px;
+    margin-top: 10%;
+    border-radius: 50px;
+}
+button{
+    border-radius: 100px;
+    background-color: rgb(80, 80, 179);
+    font-size: x-large;
+}
+#salir{
+    background-color: red;
+}
+#crear_room{
+    background-color: green;
+}
+#welcome{
+    color: rgb(255, 255, 255);
+}
+#salas{
+    border-radius: 50px;
+}
