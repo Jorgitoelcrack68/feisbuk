@@ -5,7 +5,7 @@ body{
     background-color: rgb(31, 31, 117);
 }
 div{
-    background-color: rgb(203, 203, 203);
+    background-color: rgba(203, 203, 203, 0.677);
     width: fit-content;
     padding: 20px;
     margin-top: 10%;
@@ -27,4 +27,20 @@ button{
 }
 #salas{
     border-radius: 50px;
+}
+#salir2{
+    background-color: red;
+}
+#env{
+    background-color: rgb(48, 255, 29);
+}
+#env_mensaje{
+    background-color: rgb(246, 238, 238);
+    bottom: 0px;
+    position: fixed;
+    margin-left: 42%;
+}
+#mensajes{
+    margin-top: 0%;
+    margin-bottom: 20%;
 }
